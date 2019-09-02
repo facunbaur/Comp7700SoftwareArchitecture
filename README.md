@@ -1,3 +1,3 @@
 # Comp7700SoftwareArchitecture
 
-Assignment 2
+Class Assignment 2

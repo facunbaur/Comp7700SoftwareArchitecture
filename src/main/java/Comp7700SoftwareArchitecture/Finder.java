@@ -1,9 +1,10 @@
 package Comp7700SoftwareArchitecture;
 
+import java.util.Arrays;
 public class Finder{
 
     public static void main(String[] args) {
-        int intArray[]= {1,5,-9,12,-3,89, 18,23,4,-6};
+        int intArray[]= {1,5,-9,12,-3,80, 18,23,4,-6};
         findMax(intArray);
         findMin(intArray);
     }

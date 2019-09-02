@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0470cfa8-7411-4dee-8760-119dba7aaafe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Comp7700SoftwareArchitecture/Finder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Comp7700SoftwareArchitecture/Finder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Comp7700SoftwareArchitecture/Finder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Comp7700SoftwareArchitecture/Finder.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +60,19 @@
     </option>
   </component>
   <component name="RunManager" selected="JUnit.FinderTest">
+    <configuration name="Finder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Comp7700SoftwareArchitecture.Finder" />
+      <module name="Comp7700SoftwareArchitecture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Comp7700SoftwareArchitecture.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FinderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Comp7700SoftwareArchitecture" />
       <extension name="coverage">
@@ -69,22 +84,6 @@
       <option name="PACKAGE_NAME" value="Comp7700SoftwareArchitecture" />
       <option name="MAIN_CLASS_NAME" value="Comp7700SoftwareArchitecture.FinderTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FinderTest.findMax_Empty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Comp7700SoftwareArchitecture" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Comp7700SoftwareArchitecture.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Comp7700SoftwareArchitecture" />
-      <option name="MAIN_CLASS_NAME" value="Comp7700SoftwareArchitecture.FinderTest" />
-      <option name="METHOD_NAME" value="findMax_Empty" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -140,10 +139,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.FinderTest" />
+        <item itemvalue="JUnit.FinderTest.findMin_Valid" />
+        <item itemvalue="Application.Finder" />
         <item itemvalue="JUnit.FinderTest.findMin_Empty" />
         <item itemvalue="JUnit.FinderTest.findMin_Null" />
-        <item itemvalue="JUnit.FinderTest.findMin_Valid" />
-        <item itemvalue="JUnit.FinderTest.findMax_Empty" />
       </list>
     </recent_temporary>
   </component>
